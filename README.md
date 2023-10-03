@@ -44,3 +44,5 @@
 <div align="center">
   <img height="120" src="https://user-images.githubusercontent.com/123120185/257965076-a45fbf30-104f-4dea-b41f-4babd28f92d2.svg"  />
 </div>
+
+[![wakatime](https://wakatime.com/badge/user/018af75d-16ab-465b-866a-0584a6a2e7f6/project/018af766-a94c-4e6d-879e-0bebed14b2cd.svg)](https://wakatime.com/badge/user/018af75d-16ab-465b-866a-0584a6a2e7f6/project/018af766-a94c-4e6d-879e-0bebed14b2cd)
