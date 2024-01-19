@@ -17,8 +17,8 @@
 ###
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp"/><br>
-    <img src="https://skillicons.dev/icons?i=github,vscode,linux"/><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,kotlin,rust"/><br>
+    <img src="https://skillicons.dev/icons?i=bash,github,vscode,linux"/><br>
 </div>
 
 ###
