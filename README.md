@@ -12,50 +12,17 @@
 
 ###
 
-<h2 align="center">Technical Skills :</h2>
-
-###
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,kotlin,rust"/><br>
-    <img src="https://skillicons.dev/icons?i=bash,github,vscode,linux"/><br>
-</div>
-
-###
-
-  ### TECHNOLOGY
+### TECHNOLOGY
 
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="icon" width="65" height="65" />
+          <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
       <br>C
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-      <br>Webpack
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
     </td>
   </tr>
   <tr>
@@ -90,14 +57,21 @@
  </tr>
 </table>
 
-<h2 align="center">Stats :</h2>
-
 ###
+
+### GitHub streak
 
 <div align="center">
   <img width=390 src="https://streak-stats.demolab.com/?user=emment-yamikani&count_private=true&theme=transparent&border_radius=10" alt="streak stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emment-yamikani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&order=2&custom_title=Languages" height="150" alt="languages graph"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=emment-yamikani&hide_title=false&hide=contribs,issues&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1&custom_title=Stats" height="150" alt="stats graph"/>
+  <img
+
+### Languages 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=emment-yamikani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&order=2&custom_title=Languages" height="150" alt="languages graph"/>
+
+### Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=emment-yamikani&hide_title=false&hide=contribs,issues&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1&custom_title=Stats" height="150" alt="stats graph"/>
 </div>
 
 ###
